@@ -1,4 +1,3 @@
-const div=document.getElementById('#div')
 function print(data){
     const label=document.createElement('label')
     label.textContent=data;
